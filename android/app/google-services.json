@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052411607482",
+    "project_id": "imagetotext-22f2a",
+    "storage_bucket": "imagetotext-22f2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052411607482:android:f98bcf8b82adc4cde14583",
+        "android_client_info": {
+          "package_name": "net.fluttertutorial.flutter_login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052411607482-v9qf2gt4p4od34h5vejm26rn0pp2e88n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ag9XEXayi-nL2PQkTni3ut2YCQ5BDlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052411607482-v9qf2gt4p4od34h5vejm26rn0pp2e88n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
